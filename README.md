@@ -1,6 +1,6 @@
 # NodeDK
 
-This is the main repo for the [Node Development Kit.](https:/ndk.sh)
+**This is the main repo for the [Node Development Kit.](https://ndk.sh)**
 
 It is currently under development.
 
